@@ -1,0 +1,19 @@
+- name: Moje Miasto
+  cena: 140
+  pictures:
+    - lodz.jpg
+
+- name: Hotel Centrum
+  cena: 140
+  pictures:
+    - hotel.jpg
+
+- name: Hotel Centrum
+  cena: 140
+  pictures:
+    - hotel.jpg
+
+- name: Wilki
+  cena: 140
+  pictures:
+    - wilki.jpg
